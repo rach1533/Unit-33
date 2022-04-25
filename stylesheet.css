@@ -1,0 +1,20 @@
+.banner {
+    background-color: beige;
+    margin-top: 60px;
+    text-align: center;
+    padding: 50px;
+}
+
+#coffee-pic {
+    height: 200px;
+    width: 200px;
+}
+.content-one {
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: wavy
+}
+    
